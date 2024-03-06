@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.blackbutton {
+    height: 2.5rem;
+    border-radius: 0.25rem;
+    background: #282828;
+    padding: 0 5px;
+    width: var(--width);
+}
+
+.titlebutton {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.75rem;
+}
